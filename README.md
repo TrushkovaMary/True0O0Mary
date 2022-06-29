@@ -24,7 +24,8 @@ Here are some ideas to get you started:
   <li> In my free time, I`m solving problems in Timus & CodeWars
   <li> I have completed 8 courses at Stepik
   <li> How to reach me: 
-  <br>  <a href="https://vk.com/falsemary">
+  <br>  
+    <a href="https://vk.com/falsemary">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
   </a>
   <a href="https://t.me/FalseMary">
