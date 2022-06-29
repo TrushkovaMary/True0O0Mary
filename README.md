@@ -36,14 +36,14 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://user-images.githubusercontent.com/94931275/176388260-b184c7a0-1a66-4f0f-961f-52ba91290727.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/94931275/176388430-9c30d55e-ced5-459f-b5b2-269212266f36.png" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/94931275/176388617-b3600dae-6d83-4532-aa4e-762db96f93c0.png" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/94931275/176387727-8afb4c79-ce3e-4420-bd12-323cd1a29a0d.png" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/94931275/176388798-791d5360-d7da-4605-860d-ea3276120956.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webstorm/webstorm-original-wordmark.svg" title="WebStorm" alt="WebStorm" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="60" height="60"/>&nbsp; 
 </div>
 
 
