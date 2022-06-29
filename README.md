@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 ###  :woman_technologist: About Me : 
 <div>
   <li> I am a graduate of the Lyceum for gifted children in Nizhny Novgorod
+  <li> Now I am studying at the Financial University under the Government of the Russian Federation
   <li> In my free time, I`m solving problems in Timus & CodeWars
   <li> I have completed 8 courses at Stepik
-  <li> Now I am studying at the Financial University under the Government of the Russian Federation
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
