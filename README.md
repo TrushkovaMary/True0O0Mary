@@ -46,9 +46,10 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="60" height="60"/>&nbsp; 
 </div>
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=True0O0Mary&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=True0O0Mary)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
