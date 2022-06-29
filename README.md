@@ -18,7 +18,11 @@ Here are some ideas to get you started:
   <br> Hi there 👋 </br>
   <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="50%" />
 </div>
-
-<a href="https://vk.com/falsemary" class="social-button ico-vk-vk"></a>
-
-
+<div id="badges" align="center">
+  <a href="https://vk.com/falsemary">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+  </a>
+  <a href=" https://t.me/falsemary">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
