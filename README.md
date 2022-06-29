@@ -14,17 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
-  <h2> Hi there 👋 </h2>
-  <p><img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="50%" /></p>
-  
-  <a href="https://vk.com/falsemary">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
-  </a>
-  <a href="https://t.me/FalseMary">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</div>
+![image](https://user-images.githubusercontent.com/94931275/176416161-e50babf1-f9d6-4adb-96f1-16fd5486d638.png)
+
 
 ###  :woman_technologist: About Me : 
 <div>
@@ -32,6 +23,18 @@ Here are some ideas to get you started:
   <li> Now I am studying at the Financial University under the Government of the Russian Federation
   <li> In my free time, I`m solving problems in Timus & CodeWars
   <li> I have completed 8 courses at Stepik
+  <li> How to reach me: 
+  <br>  <a href="https://vk.com/falsemary">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+  </a>
+  <a href="https://t.me/FalseMary">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
+
+<div id="header" align="center">
+ 
+  <!-- <p><img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="50%" /></p>-->
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
