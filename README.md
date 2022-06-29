@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <a href="https://vk.com/falsemary">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
   </a>
-  <a href=" https://t.me/falsemary">
+  <a href="https://t.me/FalseMary">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
