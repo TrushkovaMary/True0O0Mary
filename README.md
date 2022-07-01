@@ -58,4 +58,5 @@ Here are some ideas to get you started:
 
 [![codewars](https://www.codewars.com/users/True0O0Mary/badges/small)](https://www.codewars.com/users/True0O0Mary) 
 
+<img src="https://komarev.com/ghpvc/?username=True0O0Mary&style=flat-square&color=blue" alt=""/>
 
