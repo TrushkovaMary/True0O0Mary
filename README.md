@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <a href="https://t.me/FalseMary">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-<br> +7(987) 083-53-21
+
 </div>
 
 <div id="header" align="center">
