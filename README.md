@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TrushkovaMary&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=True0O0Mary)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrushkovaMary)](https://github.com/anuraghazra/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/True0O0Mary/badges/small)](https://www.codewars.com/users/True0O0Mary) 
 
-<img src="https://komarev.com/ghpvc/?username=True0O0Mary&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=TrushkovaMary&style=flat-square&color=blue" alt=""/>
 
